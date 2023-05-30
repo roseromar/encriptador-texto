@@ -33,7 +33,7 @@ main{
 
 .mensaje{
     background: rgb(130, 167, 130);
-    background-image: url(./img/Muñeco.png));
+    background-image: url(./img/Muñeco.png);
     background-repeat: no-repeat;
     position:absolute;
     border: none;
